@@ -8,9 +8,12 @@ This course had three tasks:
   - Calls by time;
   - Average speed of answer;
   - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered.
-![task1](https://github.com/gboaventura93/PowerBI_PwC_Switzerland/assets/160729027/dc7cc16d-8548-4865-9dcf-0aece70f4472)
+    ![task1](https://github.com/gboaventura93/PowerBI_PwC_Switzerland/assets/160729027/dc7cc16d-8548-4865-9dcf-0aece70f4472)
 
 2. Define proper KPIs and create a dashboard for the retention manager reflecting the KPIs.
-3. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
+    ![task2](https://github.com/gboaventura93/PowerBI_PwC_Switzerland/assets/160729027/d8c4050b-3210-4f7b-bd57-aeb8e9d3e31a)
 
-You can find all the dashboards I created in this repository.
+3. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
+    ![task3](https://github.com/gboaventura93/PowerBI_PwC_Switzerland/assets/160729027/86699c7a-9bbe-442e-a8fe-eb86915a1c6a)
+
+You can find all the files I created in this repository.
