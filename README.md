@@ -8,7 +8,8 @@ This course had three tasks:
   - Calls by time;
   - Average speed of answer;
   - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered.
-![](https://drive.google.com/file/d/1l0ALx2y0fdDIHn6kJxR6LrfiIzv58XNh/view?usp=sharing)
+![task1](https://github.com/gboaventura93/PowerBI_PwC_Switzerland/assets/160729027/dc7cc16d-8548-4865-9dcf-0aece70f4472)
+
 2. Define proper KPIs and create a dashboard for the retention manager reflecting the KPIs.
 3. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
 
