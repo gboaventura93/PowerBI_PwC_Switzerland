@@ -16,4 +16,4 @@ This course had three tasks:
 3. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
     ![task3](https://github.com/gboaventura93/PowerBI_PwC_Switzerland/assets/160729027/86699c7a-9bbe-442e-a8fe-eb86915a1c6a)
 
-You can find all the files I created in this repository.
+All the files for this project are available in my [GitHub repository](https://github.com/gboaventura93/PowerBI_PwC_Switzerland).
